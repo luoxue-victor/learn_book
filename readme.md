@@ -1,6 +1,6 @@
 # 整理一些前端学习数据
 
-### JavaScript
+### JavaScript系列
 
 - 【迷你书】精通 JavaScript 开发
 - 你不知道的 JavaScript（上卷）
