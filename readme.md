@@ -1,6 +1,6 @@
 ## 整理一些前端学习数据
 ### JavaScript
-+ 【迷你书】精通JavaScript开发
++ <a>【迷你书】精通JavaScript开发<a/>
 + 你不知道的JavaScript（上卷）
 + 你不知道的JavaScript（中卷）
 + 你不知道的JavaScript（下卷）
