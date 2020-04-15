@@ -1,6 +1,6 @@
 ## 整理一些前端学习数据
 ### JavaScript
-+ <a download="https://github.com/luoxue-victor/learn_book/blob/master/books/%E3%80%90%E8%BF%B7%E4%BD%A0%E4%B9%A6%E3%80%91%E7%B2%BE%E9%80%9AJavascript%E5%BC%80%E5%8F%91.pdf" href="https://github.com/luoxue-victor/learn_book/blob/master/books/%E3%80%90%E8%BF%B7%E4%BD%A0%E4%B9%A6%E3%80%91%E7%B2%BE%E9%80%9AJavascript%E5%BC%80%E5%8F%91.pdf">【迷你书】精通JavaScript开发<a/>
++ 迷你书】精通JavaScript开发
 + 你不知道的JavaScript（上卷）
 + 你不知道的JavaScript（中卷）
 + 你不知道的JavaScript（下卷）
